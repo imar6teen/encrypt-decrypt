@@ -2,6 +2,8 @@
 
 ## crypto (for encryption & decryption)
 
+### createCipher is deprecated, use createCipheriv instead
+
 ## fs (for read stream or just read file)
 
 ## path (for path)
