@@ -16,7 +16,7 @@ rl.question(
     2. Decrypt \n
     3. Exit \n
 
-    What is your choice you peace of sh*t? \n
+    What is your choice ? \n
 `,
   (ans) => {
     switch (ans) {
